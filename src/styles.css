@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;  
+}
+
+html, body, app-root { 
+    display: flex;
+    height: 100%; 
+    width: 100%;
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+}
